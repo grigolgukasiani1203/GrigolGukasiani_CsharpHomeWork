@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wick2", "wick2\wick2.csproj", "{051D9BE9-56B2-49C8-B5EA-089DF2057462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051D9BE9-56B2-49C8-B5EA-089DF2057462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051D9BE9-56B2-49C8-B5EA-089DF2057462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051D9BE9-56B2-49C8-B5EA-089DF2057462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051D9BE9-56B2-49C8-B5EA-089DF2057462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F8B8EF9-3D1B-4484-BB78-8C0659C45BCA}
+	EndGlobalSection
+EndGlobal

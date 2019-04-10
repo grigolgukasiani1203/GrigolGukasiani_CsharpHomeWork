@@ -1,0 +1,10 @@
+D:\HomeWork\C#\wick2\wick2\obj\Debug\wick2.csprojAssemblyReference.cache
+D:\HomeWork\C#\wick2\wick2\obj\Debug\wick2.Form1.resources
+D:\HomeWork\C#\wick2\wick2\obj\Debug\wick2.Properties.Resources.resources
+D:\HomeWork\C#\wick2\wick2\obj\Debug\wick2.csproj.GenerateResource.cache
+D:\HomeWork\C#\wick2\wick2\obj\Debug\wick2.csproj.CoreCompileInputs.cache
+D:\HomeWork\C#\wick2\wick2\bin\Debug\wick2.exe.config
+D:\HomeWork\C#\wick2\wick2\bin\Debug\wick2.exe
+D:\HomeWork\C#\wick2\wick2\bin\Debug\wick2.pdb
+D:\HomeWork\C#\wick2\wick2\obj\Debug\wick2.exe
+D:\HomeWork\C#\wick2\wick2\obj\Debug\wick2.pdb
